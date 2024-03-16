@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box: 
+}
+
+html,
+body {
+    margin: 0;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+
+body {
+    background-color:rgb(247, 241, 230);
+}
+
+header
+
+
+{
+    background-color:rgb(187, 212, 204); 
+    font-size: 1em;
+} 
+
+.titleofpage{
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navlinks{
+    text-align: right;
+}
+
+.navlinks > a {
+    font-size: .9em;
+    padding-right: 2em;
+    text-decoration: none;
+
+}
+
+h1 {
+    font-size: 1.5em;
+}
